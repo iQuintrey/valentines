@@ -216,7 +216,7 @@ function App() {
           <div className="container success-message" style={{ display: 'block' }}>
             <img src={penguinImg} alt="Penguin" className="penguin-img" />
             <h1 className="success-text">Yay, I knew you’d say yes!</h1>
-            <p className="sub-text">It surely makes me happy throughout the day 🥰💐 You cannot said no.😌Piak ni ah.</p>
+            <p className="sub-text">It surely makes me happy throughout the day 🥰💐 No escape for you.😌Piak ni ah. Anyway, I hope you stay happy and lots of laughter as always every day.</p>
           </div>
           <canvas ref={confettiCanvasRef} id="confetti"></canvas>
         </>
