@@ -187,7 +187,7 @@ function App() {
       {!yesPressed ? (
         <div className="container" ref={containerRef}>
           <img src={valentineImg} alt="Us" className="valentine-img" />
-          <h1>Will you be my Valentine? 💗</h1>
+          <h1>Lay Chen Ssi, Will you be my Valentine? 💗</h1>
           <div className="buttons">
             <button
               className="btn-yes"
